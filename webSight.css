@@ -1,0 +1,38 @@
+ body {background-color:rgb(184, 180, 175);font-family:Arial, Helvetica, sans-serif;font-style:inherit
+}
+h2 {background-color:rgb(63, 62, 65); color:rgb(233, 236, 244);font-family:inherit;text-align:center;
+}
+h3 {background-color:rgb(134, 131, 139); color:rgb(233, 236, 244);font-family:inherit;text-align:left; padding: 11%;
+}
+ #header {
+    background-color:black;
+    color:white;    
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:80px;
+    background-color:rgb(63, 62, 65); color:rgb(233, 236, 244);font-family:inherit;text-align:center; 
+    height:400px;
+    widows: 150px;
+    float:left;
+    padding:20px; 
+} 
+#section {
+    line-height:25px;
+    width:500px;
+    float:left;
+    padding:10px; 
+   
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear: both;
+    text-align:center;
+    padding:5px; 
+}
+a:link    {color:rgb(176, 204, 176); background-color:transparent; text-decoration:none}
+a:visited {color:rgb(202, 185, 191); background-color:transparent; text-decoration:none}
+a:hover   {color:rgb(116, 83, 83); background-color:transparent; text-decoration:underline}
+a:active  {color:rgb(116, 116, 99); background-color:transparent; text-decoration:underline}
